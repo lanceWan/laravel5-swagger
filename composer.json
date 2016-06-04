@@ -1,5 +1,5 @@
 {
-    "name": "iwanli/swagger",
+    "name": "iwanli/laravel5-swagger",
     "description": "A great way to integrate Swagger into Laravel",
     "keywords": ["laravel", "swagger", "l5", "documentation", "api"],
     "license": "MIT",
