@@ -1,0 +1,22 @@
+{
+    "name": "iwanli/swagger",
+    "description": "A great way to integrate Swagger into Laravel",
+    "keywords": ["laravel", "swagger", "l5", "documentation", "api"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wanli",
+            "email": "ibanya@126.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3.0",
+        "zircote/swagger-php": "*"
+    },
+    "autoload": { 
+        "psr-4": {
+            "Iwanli\\Swagger\\": "src/"
+        } 
+    }
+}
