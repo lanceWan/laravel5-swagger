@@ -12,7 +12,7 @@
 
 # 安装
 
-* 在项目根目录下执行： `composer require iwanli/laravel5-swagger` 或在 `composer.json` 中添加 `"iwanli/laravel5-swagger": "~0.1"`
+* 在项目根目录下执行： `composer require iwanli/laravel5-swagger` 或在 `composer.json` 中添加 `"iwanli/laravel5-swagger": "~0.1"` 然后执行 `composer update`
 * 添加 `Iwanli\Swagger\SwaggerServiceProvider::class` 到 `app/config/app.php` providers 数组中
 * 最后执行 `php artisan vendor:publish`
 
